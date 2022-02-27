@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="name">write your name</string>
+    <string name="hoursworked">write your workedhours</string>
+    <string name="salary">calculate your final salary</string>
+    <string name="thisname">Your name is:</string>
+    <string name="thisSalary">Your final salary is:</string>
+</resources>
